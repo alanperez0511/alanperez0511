@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola, soy Alan Pérez! 👋
 
-<!--
-**alanperez0511/alanperez0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack especializado en sistemas empresariales de logística y gestión de inventario. Actualmente en **ISTHO S.A.S.**, construyendo y manteniendo **CenthriX**, un CRM/WMS para operaciones de logística, transporte y almacenamiento.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajo en un CRM logístico full-stack: gestión de operaciones de bodega (entradas/salidas/kardex), inventario en tiempo real, viajes y transporte, y reportería avanzada.
+- 🔌 Diseño e integro sincronización con sistemas WMS externos (arquitectura híbrida push/pull vía API REST + acceso directo a base de datos).
+- 📊 Construyo reportería de negocio de punta a punta: exportación a Excel/PDF, KPIs agregados y vistas consolidado/detallado sobre grandes volúmenes de datos.
+- ⚡ Me enfoco en rendimiento: paginación server-side, optimización de queries SQL y reducción de payloads (por ejemplo, una vista que llegó a pesar 5+ MB por carga, optimizada a ~100 KB).
+- 🔐 Aplico buenas prácticas de seguridad: sistemas de permisos por rol, autenticación JWT, auditoría de acciones, sanitización de contenido y políticas CSP.
+- ☁️ Manejo despliegues en múltiples entornos (producción/pruebas) sobre AWS, Railway y Vercel, con bases de datos PostgreSQL y almacenamiento S3.
+
+## 🛠️ Stack técnico
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+
+**Infraestructura**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+## 💼 Experiencia destacada
+
+**ISTHO S.A.S.**
+- **Auxiliar Desarrollo de Software** · oct. 2025 – Presente
+- **Practicante de Desarrollo de Software** · abr. 2025 – oct. 2025 (6 meses)
+
+- Desarrollo y mantenimiento de un CRM logístico usado en producción, cubriendo operaciones de bodega, inventario, transporte y facturación interna.
+- Integración con un WMS externo (Warehouse Management System) mediante arquitectura dual de sincronización (API REST + consultas directas a base de datos), resolviendo desafíos de consistencia entre entornos de producción y pruebas.
+- Diseño de un sistema de reportería configurable con exportación a Excel/PDF, vistas agregadas y filtrado avanzado, optimizado para grandes volúmenes de datos.
+- Implementación de mejoras de rendimiento medibles (reducción de tiempos de carga y tamaño de payloads en endpoints críticos).
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-pérez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alanperez0511@istho.com.co)
+
+---
+![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=alanperez0511&show_icons=true&theme=default)
